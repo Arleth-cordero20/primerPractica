@@ -9,3 +9,4 @@ cd carpet
 8) ps > procesosejecutados
  cd ..
 9) ls > mis-archivos.txt
+..bb.
