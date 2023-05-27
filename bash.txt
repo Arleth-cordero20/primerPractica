@@ -1,23 +1,11 @@
-~/arlethno$ pwd
-/home/runner/arlethno
-~/arlethno$ ls
-archivo01.txt  carpeta1  carpeta2  main.sh  replit.nix
-~/arlethno$ ls -l
-total 12
--rw-r--r-- 1 runner runner   6 May 23 10:11 archivo01.txt
--rw-r--r-- 1 runner runner   0 May 22 14:04 carpeta1
--rw-r--r-- 1 runner runner   0 May 22 14:04 carpeta2
--rw-r--r-- 1 runner runner  10 May 22 14:01 main.sh
--rw-r--r-- 1 runner runner 139 May 20 22:46 replit.nix
-~/arlethno$ ls -sh
-total 12K
-4.0K archivo01.txt     0 carpeta1     0 carpeta2  4.0K main.sh  4.0K replit.nix
-~/arlethno$ ls -sh > archivo01.txt
-~/arlethno$ ls -l archivo01.txt
--rw-r--r-- 1 runner runner 87 May 23 10:35 archivo01.txt
-~/arlethno$ mkdir carpeton
-~/arlethno$ cd carpeton
-~/arlethno/carpeton$ ps > archi.txt
-~/arlethno/carpeton$ ls > archibos.txt 
-~/arlethno/carpeton$ cd ..
-~/arlethno$ ls > archivos02.txt
+1) pwd
+2) ls
+3) ls -l
+4) ls -sh
+5) ls -sh > ultimasalida.txt
+6) ls -l ultimasalida.txt
+7) mkdir carpet
+cd carpet
+8) ps > procesosejecutados
+ cd ..
+9) ls > mis-archivos.txt
