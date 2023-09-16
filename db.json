@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "perfil": [
+  "perfil":[
    {
       "id": 1,
       "img": "https://media.discordapp.net/attachments/992435024026677329/1138483441512484994/m.jpg?width=336&height=448",
@@ -63,11 +63,11 @@
       "name": "",
       "description": "BUenas soy patri, mi dueño esta buscando una novia, estas interesada?"
    },
-    {
+   {
       "id": 10,
       "img": "https://m.media-amazon.com/images/I/713wJ6jlfiL._AC_UF350,350_QL80_.jpg",
       "name": "marco",
       "description": "hola"
-   } 
+   }
 ]
 }
