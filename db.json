@@ -9,53 +9,53 @@
     "name": "typicode"
   },
   "perfiles": [
-     {
-        "id": 1,
-        "img": "https://media.discordapp.net/attachments/992435024026677329/1138483441512484994/m.jpg?width=336&height=448",
-        "name": "Lucas 8",
-        "description": "​​Lucas, un perrito compañero lleno de encanto. Aunque disfruta de momentos tranquilos en casa, su espíritu juguetón se despierta en cada paseo. si estas interesado en ir de paseo con lucas mandanos un mensajito"
-     },
-     {
-        "id": 2,
-        "img": "https://www.gatoexotico.com/wp-content/uploads/2020/05/gato-naranja-de-pelo-largo.jpg",
-        "name": "Edgar 6",
-        "description": "Edgar es una mezcla única de elegancia y curiosidad. no le gusta jugar y se la pasa todo el dia durmiendo, no te dejes llevar por su mirada juzagadora, porque cuando entra en confianza te puede atacar con mucho amor y cariño"
-     },
-     {
-        "id": 3,
-        "img": "https://smylepets.com/wp-content/uploads/2021/08/caniche-toy-raza.jpg",
-        "name": "Marian 4",
-        "description": "Marian es un pequeño caniche con un lindo pelaje rizado y suave, es muy amigable y sociable, ademas adora estar en compañía de las personas y otros perros. Le encanta jugar a buscar la pelota y dar largos paseos por el parque"
-     },
-     {
-        "id": 4,
-        "img": "blob:https://web.whatsapp.com/410688d6-98df-4d45-b38d-8cd79e8aace2",
-        "name": "Nicole 2",
-        "description": "Nicole está en la edad en la que sigue siendo juguetona y activa, pero también está aprendiendo a equilibrar su energía con momentos de calma."
-     },
-     {
-        "id": 5,
-        "img": "https://img.freepik.com/fotos-premium/retrato-perro-cerca-casa-pequeno-mestizo-negro-cadena_540525-562.jpg",
-        "name": "Luna 6",
-        "description": "Luna es una perra mestiza de tamaño mediano, ya esta grande pero aun así ama la atención que le dan, es activa y le encanta correr en el parque. Su pelaje suave y negro es lo que le hace tan bonita.  "
-     },
-     {
-        "id": 6,
-        "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
-        "name": "Simba 4",
-        "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
-     },
-     {
-        "id": 7,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjnjyZ3sg5-lg0qMps-XmEyas3DV_Ds3L6Ch9OQbXA1PWrjiTCpnfQ5ym1Le8BVkdohw&usqp=CAU",
-        "name": "Max  5",
-        "description": "Hola. Soy Maxi un Pastor Alemán en busca de una novia, escribeme "
-     },
-     {
-        "id": 8,
-        "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
-        "name": "Simba 4",
-        "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
-     },
-],
+   {
+      "id": 1,
+      "img": "https://media.discordapp.net/attachments/992435024026677329/1138483441512484994/m.jpg?width=336&height=448",
+      "name": "Lucas 8",
+      "description": "​​Lucas, un perrito compañero lleno de encanto. Aunque disfruta de momentos tranquilos en casa, su espíritu juguetón se despierta en cada paseo. si estas interesado en ir de paseo con lucas mandanos un mensajito"
+   },
+   {
+      "id": 2,
+      "img": "https://www.gatoexotico.com/wp-content/uploads/2020/05/gato-naranja-de-pelo-largo.jpg",
+      "name": "Edgar 6",
+      "description": "Edgar es una mezcla única de elegancia y curiosidad. no le gusta jugar y se la pasa todo el dia durmiendo, no te dejes llevar por su mirada juzagadora, porque cuando entra en confianza te puede atacar con mucho amor y cariño"
+   },
+   {
+      "id": 3,
+      "img": "https://smylepets.com/wp-content/uploads/2021/08/caniche-toy-raza.jpg",
+      "name": "Marian 4",
+      "description": "Marian es un pequeño caniche con un lindo pelaje rizado y suave, es muy amigable y sociable, ademas adora estar en compañía de las personas y otros perros. Le encanta jugar a buscar la pelota y dar largos paseos por el parque"
+   },
+   {
+      "id": 4,
+      "img": "blob:https://web.whatsapp.com/410688d6-98df-4d45-b38d-8cd79e8aace2",
+      "name": "Nicole 2",
+      "description": "Nicole está en la edad en la que sigue siendo juguetona y activa, pero también está aprendiendo a equilibrar su energía con momentos de calma."
+   },
+   {
+      "id": 5,
+      "img": "https://img.freepik.com/fotos-premium/retrato-perro-cerca-casa-pequeno-mestizo-negro-cadena_540525-562.jpg",
+      "name": "Luna 6",
+      "description": "Luna es una perra mestiza de tamaño mediano, ya esta grande pero aun así ama la atención que le dan, es activa y le encanta correr en el parque. Su pelaje suave y negro es lo que le hace tan bonita.  "
+   },
+   {
+      "id": 6,
+      "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
+      "name": "Simba 4",
+      "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
+   },
+   {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjnjyZ3sg5-lg0qMps-XmEyas3DV_Ds3L6Ch9OQbXA1PWrjiTCpnfQ5ym1Le8BVkdohw&usqp=CAU",
+      "name": "Max  5",
+      "description": "Hola. Soy Maxi un Pastor Alemán en busca de una novia, escribeme "
+   },
+   {
+      "id": 8,
+      "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
+      "name": "Simba 4",
+      "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
+   }
+]
 }
