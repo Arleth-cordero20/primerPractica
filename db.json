@@ -49,13 +49,25 @@
       "id": 7,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjnjyZ3sg5-lg0qMps-XmEyas3DV_Ds3L6Ch9OQbXA1PWrjiTCpnfQ5ym1Le8BVkdohw&usqp=CAU",
       "name": "Max  5",
-      "description": "Hola. Soy Maxi un Pastor Alemán en busca de una novia, escribeme "
+      "description": "Hola. Soy Maxi un Pastor Alemán en busca de una novia, escribeme ​🐾​😘​"
    },
    {
       "id": 8,
       "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
       "name": "Simba 4",
       "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
-   }
+   },
+   {
+      "id": 9,
+      "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
+      "name": "Simba 4",
+      "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
+   },
+    {
+      "id": 10,
+      "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
+      "name": "Simba 4",
+      "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
+   } 
 ]
 }
