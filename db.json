@@ -29,7 +29,7 @@
    },
    {
       "id": 4,
-      "img": "blob:https://web.whatsapp.com/410688d6-98df-4d45-b38d-8cd79e8aace2",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Gata_com%C3%BAn_negra.png",
       "name": "Nicole 2",
       "description": "Nicole está en la edad en la que sigue siendo juguetona y activa, pero también está aprendiendo a equilibrar su energía con momentos de calma."
    },
@@ -53,21 +53,21 @@
    },
    {
       "id": 8,
-      "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
-      "name": "Simba 4",
-      "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
+      "img": "https://i.pinimg.com/1200x/68/2b/3f/682b3f33d2d663405705efcd5f33ff76.jpg",
+      "name": "lolo",
+      "description": "Necesito amigos, hablemos por priv"
    },
    {
       "id": 9,
-      "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
-      "name": "Simba 4",
-      "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
+      "img": "https://www.elmueble.com/medio/2022/12/20/carlino_225c3ce9_221220131121_1500x2000.jpg",
+      "name": "",
+      "description": "BUenas soy patri, mi dueño esta buscando una novia, estas interesada?"
    },
     {
       "id": 10,
-      "img": "https://labradores.org/wp-content/uploads/2019/01/collar-para-labrador.jpg",
-      "name": "Simba 4",
-      "description": "Hola, me llamo Simba. Si quieres ir a jugar al parque conmigo, escríbeme. Vamos a pasarla súper. "
+      "img": "https://m.media-amazon.com/images/I/713wJ6jlfiL._AC_UF350,350_QL80_.jpg",
+      "name": "marco",
+      "description": "hola",
    } 
 ]
 }
